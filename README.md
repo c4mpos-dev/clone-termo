@@ -12,7 +12,7 @@ O projeto possui uma janela de regras para quem não saiba jogar e um botão par
 
 ## 📌 Versão
 
-Essa é a versão original do produto, que receberá novas versões ao decorrer do tempo.
+Essa é a versão inicial do produto, que receberá novas versões ao decorrer do tempo.
 
 ## ✒️ Autores
 
@@ -29,4 +29,4 @@ Este projeto está sob a licença.
 
 ## 🎁 Expressões de gratidão
 
-* Conte a outras pessoas sobre este projeto 📢;
+* Conte a outras pessoas sobre este projeto 📢.
