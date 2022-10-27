@@ -1,9 +1,6 @@
 # Clone do Jogo Termo(Wordle)
 O projeto foi feito para fins de aprendizagem e utilizada como método de avaliação técnica.
 
-
-![image](https://user-images.githubusercontent.com/73807067/198164003-7883fd39-8956-4b88-aa8a-beccba0ef611.png)
-
 ## 🚀 Começando
 
 O projeto possui uma janela de regras para quem não saiba jogar e um botão para revelar palavras existentes na memória, as palavras aceitas foram colocadas em "CloneTermooo\bin\Debug\net6.0-windows\words5letters.txt", caso queira adicionar novas palavras edite o arquivo. 
@@ -25,6 +22,10 @@ Essa é a versão original do produto, que receberá novas versões ao decorrer 
 ## 📄 Licença
 
 Este projeto está sob a licença.
+
+## ⚠️ Spoiler do layout
+
+![image](https://user-images.githubusercontent.com/73807067/198164003-7883fd39-8956-4b88-aa8a-beccba0ef611.png)
 
 ## 🎁 Expressões de gratidão
 
