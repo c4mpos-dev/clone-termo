@@ -1,0 +1,16 @@
+﻿<Window x:Class="CloneTermooo.Regras"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CloneTermooo"
+        mc:Ignorable="d"
+        Title="Regras" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize" Height="710" Width="600">
+    <Grid Background="#312b2d">
+        <TextBlock HorizontalAlignment="Center" Margin="0,530,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Height="147" Width="570" FontFamily="Bahnschrift" Foreground="#FF948E8E" FontSize="20"><Run Text="O botão &quot;Revelar Palavras&quot; revela as palavras existentes na memória do sistema, caso esteja cansado do MessageBox &quot;Palavra inválida&quot;, clique nele! "/><LineBreak/><Run Text="Isso ocorre pelo fato do programa ser um teste, caso queira adicionar mais palavras existentes, vá em: &quot;CloneTermooo\bin\Debug\net6.0-windows&quot; e edite o arquivo &quot;words5letters.txt&quot;."/></TextBlock>
+        <Rectangle HorizontalAlignment="Left" Height="44" Margin="10,10,0,0" Stroke="#FF191516" VerticalAlignment="Top" Width="575" RadiusX="22" RadiusY="22" Fill="#FF191516"/>
+        <Button x:Name="btnFecharJanela" Content="FECHAR JANELA" HorizontalAlignment="Center" Margin="0,0,0,648" Height="33" Width="546" VerticalAlignment="Center" FontFamily="Cascadia Code SemiBold" Foreground="#FF948E8E" FontSize="28" Background="#FF191516" BorderBrush="#FF191516" Click="fecharRegras"/>
+        <Image VerticalAlignment="Center" HorizontalAlignment="Center" Height="462" Width="600" Margin="0,0,0,130" Visibility="Visible" Source="/Regras.png"/>
+
+    </Grid>
+</Window>
